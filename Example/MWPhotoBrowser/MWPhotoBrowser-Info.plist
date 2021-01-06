@@ -34,6 +34,18 @@
 	</array>
 	<key>UIStatusBarHidden</key>
 	<false/>
+    <key>NSCameraUsageDescription</key>
+    <string>方便您使用拍照功能为修改个人头像或发帖子提供配图</string>
+    <key>NSContactsUsageDescription</key>
+    <string></string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>App需要您的同意才能开启定位权限</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string></string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>方便您使用拍照功能为修改个人头像或发帖子提供配图</string>
+    <key>UIApplicationSupportsIndirectInputEvents</key>
+    <true/>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
